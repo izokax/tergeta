@@ -1,0 +1,39 @@
+  <span><img src="/Icon/icon-memory.svg" alt=""><h3>Reaction</h3></span>
+
+
+
+
+  Azul pizarra claro Azulcl #7857ff
+
+ 
+  Rojo claro: hsl(0, 100%, 67%)
+  - Amarillo anaranjado: hsl(39, 100%, 56%)
+  - Verde azulado: hsl(166, 100%, 37%)
+  - Azul cobalto: hsl(234, 85%, 45%)
+  
+  ## Degradados
+  
+  - Azul pizarra claro (fondo): hsl(252, 100%, 67%)
+  - Azul real claro (fondo): hsl(241, 81%, 54%)
+  
+  - Azul violeta (círculo): hsla(256, 72%, 46%, 1)
+  - Azul persa (círculo): hsla(241, 72%, 46%, 0)
+  
+  
+  
+  ### Neutral
+  
+  - Blanco: hsl(0, 0%, 100%)
+  - Azul pálido: hsl(221, 100%, 96%)
+  - Lavanda clara: hsl(241, 100%, 89%)
+  - Azul gris oscuro: hsl(224, 30%, 27%)
+  
+  background: linear-gradient(180.8deg,rgb(120, 87, 255), rgb(46, 43, 233) 65.69% 90%);
+  
+
+  border-radius: 50%;
+  color: var(--Blanco);
+  padding:30%;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 15px;
